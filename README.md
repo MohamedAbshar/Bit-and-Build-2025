@@ -13,7 +13,7 @@ The solution is designed to be lightweight, accurate, and deployable in real-wor
 
 Automated waste classification using Convolutional Neural Networks (CNNs)
 
-Transfer Learning with pre-trained models (ResNet, MobileNet, etc.)
+Transfer Learning with pre-trained models (YOLOv12, etc.)
 
 Real-time inference support (via TensorFlow Lite / PyTorch Mobile)
 
